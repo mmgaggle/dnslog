@@ -9,4 +9,4 @@ for billing or general monitoring.
 DIAGRAM
 =======
 
-![Diagram](dnslog/master/dnslog.png "DNSLOG")
+![Diagram](https://raw.github.com/kbader/dnslog/master/dnslog.png "DNSLOG")
