@@ -6,3 +6,7 @@ DNS query recieved. It is intended to be ran on a server connected to a SPAN
 switch port that mirrors authoritative DNS server traffic. This could be useful
 for billing or general monitoring.
 
+DIAGRAM
+=======
+
+![Diagram](dnslog.png "DNSLOG")
