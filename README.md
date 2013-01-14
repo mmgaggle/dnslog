@@ -9,4 +9,4 @@ for billing or general monitoring.
 DIAGRAM
 =======
 
-![Diagram](dnslog.png "DNSLOG")
+![Diagram](dnslog/dnslog.png "DNSLOG")
